@@ -9,9 +9,9 @@ import time
 from colorama import Fore,Back,Style
 def ascii():                                                                                        
     print(Fore.LIGHTRED_EX+'''                                                                                   
-         ____ ___ ____ ____   ____
+            ____ ___ ____ ____   ____
 	   / ___|_ _/ ___|  _ \ / ___|            
-      | |    | | |   | |_) | |                  
+          | |    | | |   | |_) | |                  
 	  | |___ | | |___|  __/| |___               
   	   \____|___\____|_|    \____|              
            
